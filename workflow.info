@@ -17,8 +17,14 @@ dependencies[] = admin_menu
 dependencies[] = ctools
 dependencies[] = dhtml_menu
 dependencies[] = features
+dependencies[] = token
 dependencies[] = views
 dependencies[] = views_ui
 dependencies[] = workbench
+dependencies[] = workbench_access
+dependencies[] = workbench_moderation
+dependencies[] = workbench_email
+dependencies[] = workbench_profile
+
 
 

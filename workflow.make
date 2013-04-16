@@ -20,6 +20,8 @@ projects[workbench_email][subdir] = contrib
 projects[workbench_moderation][version] = "1.3"
 projects[workbench_moderation][subdir] = contrib
 
+projects[workbench_profile][version] = "1.1"
+projects[workbench_profile][subdir] = contrib
 
 
 
