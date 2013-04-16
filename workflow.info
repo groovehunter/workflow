@@ -17,6 +17,7 @@ dependencies[] = admin_menu
 dependencies[] = ctools
 dependencies[] = dhtml_menu
 dependencies[] = features
+dependencies[] = profile2
 dependencies[] = token
 dependencies[] = views
 dependencies[] = views_ui

@@ -8,6 +8,9 @@ includes[] = https://raw.github.com/groovehunter/openspirit/master/basemodules.m
 projects[print][version] = "1.2"
 projects[print][subdir] = contrib
 
+projects[profile2][version] = "1.3"
+projects[profile2][subdir] = contrib
+
 projects[token][version] = "1.5"
 projects[token][subdir] = contrib
 
