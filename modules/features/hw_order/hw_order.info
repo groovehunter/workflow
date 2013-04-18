@@ -1,7 +1,12 @@
-name = wb_syscomp
+name = hw_order
 core = 7.x
 package = Features
-version = 7.x-1.0
-project = wb_syscomp
+php = 5.2.4
+version = 7.x-1.1
+project = hw_order
+dependencies[] = features
 dependencies[] = user_import
+datestamp = 1366144784
 features[features_api][] = api:1
+features[field][] = node-hardware_antrag-body
+features[node][] = hardware_antrag

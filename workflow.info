@@ -2,7 +2,6 @@ name = Workflow
 core = 7.x
 
 ; Core
-dependencies[] = book
 dependencies[] = dblog
 dependencies[] = field_ui
 dependencies[] = file
