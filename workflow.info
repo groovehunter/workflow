@@ -8,8 +8,10 @@ dependencies[] = file
 dependencies[] = locale
 dependencies[] = menu
 dependencies[] = number
-dependencies[] = path
+;dependencies[] = path
 dependencies[] = taxonomy
+dependencies[] = toolbar
+
 
 ; Contrib
 dependencies[] = admin_menu
