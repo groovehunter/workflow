@@ -9,7 +9,7 @@ includes[] = basemodules.make
 projects[print][version] = "1.2"
 projects[print][subdir] = contrib
 
-projects[user_import][version] = "1.2"
+projects[user_import][version] = "1.0-beta6"
 projects[user_import][subdir] = contrib
 
 projects[drush_ctex_bonus][version] = "1.x-dev"
@@ -34,7 +34,7 @@ projects[workbench_email][subdir] = contrib
 
 projects[workbench_moderation][version] = "1.3"
 projects[workbench_moderation][subdir] = contrib
-projects[workbench_moderation][patch] = "http://drupal.org/files/workbench_moderation-featuresint-state-transition-1314508-57.patch"
+projects[workbench_moderation][patch][] = "http://drupal.org/files/workbench_moderation-featuresint-state-transition-1314508-57.patch"
 
 
 projects[workbench_profile][version] = "1.1"

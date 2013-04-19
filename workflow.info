@@ -19,6 +19,7 @@ dependencies[] = dhtml_menu
 dependencies[] = features
 dependencies[] = profile2
 dependencies[] = token
+dependencies[] = user_import
 dependencies[] = views
 dependencies[] = views_ui
 dependencies[] = workbench
