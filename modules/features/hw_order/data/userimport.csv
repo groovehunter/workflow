@@ -1,0 +1,5 @@
+username,	password,	roles,		email
+edv-leitung1,	alf,		edvltg,		alf-edv-leitung1@syscomp.de
+edv-techniker1,	alf,		edvtech,	alf-edv-techniker1@syscomp.de
+edv-techniker2,	alf,		edvtech,	alf-edv-techniker2@syscomp.de
+sw-dev1,	alf,		sw-dev,		alf-sw-dev1@syscomp.de
