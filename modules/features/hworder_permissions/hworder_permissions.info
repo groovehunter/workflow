@@ -9,6 +9,7 @@ dependencies[] = toolbar
 dependencies[] = workbench
 dependencies[] = workbench_access
 dependencies[] = workbench_moderation
+dependencies[] = hworder_wb_states
 features[features_api][] = api:1
 features[user_permission][] = access content
 features[user_permission][] = access toolbar
