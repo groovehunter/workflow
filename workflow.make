@@ -4,6 +4,8 @@ core = 7.x
 ;includes[] = https://raw.github.com/groovehunter/openspirit/master/basemodules.make
 includes[] = basemodules.make
 
+;projects[][subdir] = contrib
+;projects[][version] = ""
 
 ; Modules =====================================================================
 projects[print][version] = "1.2"
@@ -20,6 +22,13 @@ projects[masquerade_nominate][subdir] = contrib
 
 projects[masquerade][version] = "1.0-rc5"
 projects[masquerade][subdir] = contrib
+
+projects[uuid][version] = "1.0-alpha3"
+projects[uuid][subdir] = contrib
+
+projects[uuid_features][subdir] = contrib
+projects[uuid_features][version] = "1.0-alpha3"
+
 
 
 ;workflow related, or deps of workflow ================
