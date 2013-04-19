@@ -13,12 +13,14 @@ dependencies[] = taxonomy
 dependencies[] = toolbar
 
 
+
 ; Contrib
 dependencies[] = admin_menu
 dependencies[] = ctools
 dependencies[] = drush_ctex_bonus
 dependencies[] = dhtml_menu
 dependencies[] = features
+dependencies[] = masquerade
 dependencies[] = profile2
 dependencies[] = token
 dependencies[] = user_import
