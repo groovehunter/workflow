@@ -14,6 +14,7 @@ dependencies[] = taxonomy
 ; Contrib
 dependencies[] = admin_menu
 dependencies[] = ctools
+dependencies[] = drush_ctex_bonus
 dependencies[] = dhtml_menu
 dependencies[] = features
 dependencies[] = profile2
