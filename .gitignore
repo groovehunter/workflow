@@ -37,4 +37,5 @@ xmlrpc.php
 /themes
 
 # opwn daa
-/data
+data
+*.tar
