@@ -15,6 +15,12 @@ projects[user_import][subdir] = contrib
 projects[drush_ctex_bonus][version] = "1.x-dev"
 projects[drush_ctex_bonus][subdir] = contrib
 
+projects[masquerade_nominate][version] = "1.0-alpha1"
+projects[masquerade_nominate][subdir] = contrib
+
+projects[masquerade][version] = "1.0-rc5"
+projects[masquerade][subdir] = contrib
+
 
 ;workflow related, or deps of workflow ================
 projects[profile2][version] = "1.3"

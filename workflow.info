@@ -21,6 +21,7 @@ dependencies[] = drush_ctex_bonus
 dependencies[] = dhtml_menu
 dependencies[] = features
 dependencies[] = masquerade
+dependencies[] = masquerade_nominate
 dependencies[] = profile2
 dependencies[] = token
 dependencies[] = user_import
