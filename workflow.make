@@ -11,8 +11,8 @@ includes[] = basemodules.make
 projects[print][version] = "1.2"
 projects[print][subdir] = contrib
 
-projects[user_import][version] = "1.0-beta6"
-projects[user_import][subdir] = contrib
+projects[uif][version] = "1.5"
+projects[uif][subdir] = contrib
 
 projects[drush_ctex_bonus][version] = "1.x-dev"
 projects[drush_ctex_bonus][subdir] = contrib

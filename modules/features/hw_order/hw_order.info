@@ -6,7 +6,6 @@ version = 7.x-1.4
 project = hw_order
 dependencies[] = features
 dependencies[] = taxonomy
-dependencies[] = user_import
 dependencies[] = uuid_features
 datestamp = 1366365880
 features[features_api][] = api:1
