@@ -16,3 +16,9 @@ features[taxonomy][] = hardware_workflow
 features[uuid_term][] = 77b568b2-7f56-fab4-e18c-9c20a2c82bca
 features[uuid_term][] = 9af09e30-86f2-de54-6d18-af9a0e244865
 features[uuid_term][] = d11ba3a2-ef53-0194-89cd-c5fd2ec1ffcc
+features[user_role][] = edvltg
+features[user_role][] = edvtech
+features[user_role][] = laborleitung
+features[user_role][] = labortechniker
+features[user_role][] = sw-dev
+

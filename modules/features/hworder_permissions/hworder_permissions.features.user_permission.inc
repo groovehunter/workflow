@@ -61,59 +61,7 @@ function hworder_permissions_user_default_permissions() {
     ),
     'module' => 'workbench_access',
   );
-
-  // Exported permission: create hardware_antrag content.
-  $permissions['create hardware_antrag content'] = array(
-    'name' => 'create hardware_antrag content',
-    'roles' => array(
-      0 => 'edvtech',
-      1 => 'laborleitung',
-    ),
-    'module' => 'node',
-  );
-
-  // Exported permission: delete any hardware_antrag content.
-  $permissions['delete any hardware_antrag content'] = array(
-    'name' => 'delete any hardware_antrag content',
-    'roles' => array(
-      0 => 'edvtech',
-    ),
-    'module' => 'node',
-  );
-
-  // Exported permission: delete own hardware_antrag content.
-  $permissions['delete own hardware_antrag content'] = array(
-    'name' => 'delete own hardware_antrag content',
-    'roles' => array(),
-    'module' => 'node',
-  );
-
-  // Exported permission: delete revisions.
-  $permissions['delete revisions'] = array(
-    'name' => 'delete revisions',
-    'roles' => array(
-      0 => 'edvtech',
-    ),
-    'module' => 'node',
-  );
-
-  // Exported permission: edit any hardware_antrag content.
-  $permissions['edit any hardware_antrag content'] = array(
-    'name' => 'edit any hardware_antrag content',
-    'roles' => array(
-      0 => 'edvtech',
-    ),
-    'module' => 'node',
-  );
-
-  // Exported permission: edit own hardware_antrag content.
-  $permissions['edit own hardware_antrag content'] = array(
-    'name' => 'edit own hardware_antrag content',
-    'roles' => array(
-      0 => 'laborleitung',
-    ),
-    'module' => 'node',
-  );
+  
 
   // Exported permission: moderate content from antrag_vollst_ndig to genehmigung_erteilt.
   $permissions['moderate content from antrag_vollst_ndig to genehmigung_erteilt'] = array(
