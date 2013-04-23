@@ -25,13 +25,25 @@ function hworder_wb_states_workbench_moderation_export_transitions() {
       'from_name' => 'entwurf',
       'to_name' => 'bereit_zur_pr_fung',
     ),
-    'genehmigung_erteilt:hardware_erstellt' => array(
-      'from_name' => 'genehmigung_erteilt',
-      'to_name' => 'hardware_erstellt',
-    ),
-    'hardware_erstellt:published' => array(
-      'from_name' => 'hardware_erstellt',
+    'hardware_angeschlossen:published' => array(
+      'from_name' => 'hardware_angeschlossen',
       'to_name' => 'published',
+    ),
+    'hardware_erstellt:sw_installiert_versandbereit' => array(
+      'from_name' => 'hardware_erstellt',
+      'to_name' => 'sw_installiert_versandbereit',
+    ),
+    'hardware_versendet:hw_sendung_erhalten' => array(
+      'from_name' => 'hardware_versendet',
+      'to_name' => 'hw_sendung_erhalten',
+    ),
+    'hw_sendung_erhalten:hardware_angeschlossen' => array(
+      'from_name' => 'hw_sendung_erhalten',
+      'to_name' => 'hardware_angeschlossen',
+    ),
+    'sw_installiert_versandbereit:hardware_versendet' => array(
+      'from_name' => 'sw_installiert_versandbereit',
+      'to_name' => 'hardware_versendet',
     ),
   );
   return $items;
