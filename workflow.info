@@ -17,6 +17,7 @@ dependencies[] = toolbar
 
 ; Contrib
 dependencies[] = admin_menu
+dependencies[] = advanced_help
 dependencies[] = ctools
 dependencies[] = drush_ctex_bonus
 dependencies[] = dhtml_menu
