@@ -39,3 +39,4 @@ xmlrpc.php
 # opwn daa
 data
 *.tar
+*syscomp*
