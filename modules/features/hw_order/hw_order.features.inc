@@ -12,7 +12,7 @@ function hw_order_node_info() {
     'hardware_antrag' => array(
       'name' => t('Hardware-Antrag'),
       'base' => 'node_content',
-      'description' => t('Antrag und Bearbeitung des Hardware-lifecycles'),
+      'description' => '',
       'has_title' => '1',
       'title_label' => t('Title'),
       'help' => '',

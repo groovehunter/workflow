@@ -13,7 +13,7 @@ function hw_order_taxonomy_default_vocabularies() {
       'name' => 'Hardware-Workflow',
       'machine_name' => 'hardware_workflow',
       'description' => '',
-      'hierarchy' => '1',
+      'hierarchy' => '0',
       'module' => 'taxonomy',
       'weight' => '0',
     ),
