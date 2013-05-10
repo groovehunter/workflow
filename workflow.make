@@ -17,6 +17,9 @@ projects[uif][subdir] = contrib
 projects[drush_ctex_bonus][version] = "1.x-dev"
 projects[drush_ctex_bonus][subdir] = contrib
 
+projects[ldap][subdir] = contrib
+projects[ldap][version] = "1.0-beta12"
+
 projects[masquerade_nominate][version] = "1.0-alpha1"
 projects[masquerade_nominate][subdir] = contrib
 
@@ -28,6 +31,7 @@ projects[uuid][subdir] = contrib
 
 projects[uuid_features][subdir] = contrib
 projects[uuid_features][version] = "1.0-alpha3"
+
 
 
 
