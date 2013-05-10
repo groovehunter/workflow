@@ -8,6 +8,9 @@ includes[] = basemodules.make
 ;projects[][version] = ""
 
 ; Modules =====================================================================
+projects[contact][subdir] = contrib
+projects[contact][version] = "2.x-dev"
+
 projects[print][version] = "1.2"
 projects[print][subdir] = contrib
 
