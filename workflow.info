@@ -36,6 +36,7 @@ dependencies[] = module_filter
 dependencies[] = profile2
 dependencies[] = rules
 dependencies[] = rules_conditional
+dependencies[] = strongarm
 dependencies[] = token
 dependencies[] = uif
 ;dependencies[] = uuid

@@ -26,6 +26,9 @@ projects[masquerade_nominate][subdir] = contrib
 projects[masquerade][version] = "1.0-rc5"
 projects[masquerade][subdir] = contrib
 
+projects[strongarm][subdir] = contrib
+projects[strongarm][version] = "2.0"
+
 projects[uuid][version] = "1.0-alpha3"
 projects[uuid][subdir] = contrib
 
