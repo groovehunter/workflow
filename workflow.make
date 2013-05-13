@@ -18,7 +18,7 @@ projects[uif][version] = "1.5"
 projects[uif][subdir] = contrib
 
 projects[devel][version] = "1.3"
-
+projects[devel][subdir] = contrib
 
 
 projects[drush_ctex_bonus][version] = "1.x-dev"
