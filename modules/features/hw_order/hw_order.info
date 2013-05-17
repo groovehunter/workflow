@@ -1,13 +1,12 @@
 name = hw_order
 core = 7.x
-package = hworder
+package = Features
 php = 5.2.4
-version = 7.x-1.3
+version = 7.x-1.4
 project = hw_order
 dependencies[] = features
 dependencies[] = list
 dependencies[] = taxonomy
-dependencies[] = uuid_features
 datestamp = 1366621185
 features[features_api][] = api:1
 features[field][] = comment-comment_node_hardware_antrag-comment_body
