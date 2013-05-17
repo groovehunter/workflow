@@ -16,6 +16,9 @@ projects[date][version] = "2.6"
 projects[devel][version] = "1.3"
 projects[ds][version] = "2.3"
 projects[drush_ctex_bonus][version] = "1.x-dev"
+projects[ldap][version] = "1.0-beta12"
+
+=======
 projects[entityreference][version] = "1.0"
 projects[field_group][version] = "1.1"
 projects[masquerade_nominate][version] = "1.0-alpha1"
@@ -27,6 +30,7 @@ projects[taxonomy_csv][version] = "5.10"
 projects[taxonomy_manager][version] = "1.0-rc2"
 projects[uuid][version] = "1.0-alpha3"
 projects[uuid_features][version] = "1.0-alpha3"
+
 
 
 
