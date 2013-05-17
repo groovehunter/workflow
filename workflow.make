@@ -21,6 +21,7 @@ projects[ldap][version] = "1.0-beta12"
 =======
 projects[entityreference][version] = "1.0"
 projects[field_group][version] = "1.1"
+projects[field_permissions][version] = "1.0-beta2"
 projects[masquerade_nominate][version] = "1.0-alpha1"
 projects[masquerade][version] = "1.0-rc5"
 projects[rules][version] = "2.3"
