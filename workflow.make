@@ -14,8 +14,10 @@ projects[print][version] = "1.2"
 projects[uif][version] = "1.5"
 projects[date][version] = "2.6"
 projects[devel][version] = "1.3"
+projects[diff][version] = "3.2"
 projects[ds][version] = "2.3"
 projects[drush_ctex_bonus][version] = "1.x-dev"
+projects[l10n_update][version] = "1.0-beta3"
 projects[ldap][version] = "1.0-beta12"
 
 =======
