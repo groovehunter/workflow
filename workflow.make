@@ -50,4 +50,7 @@ projects[workbench_moderation_notes][version] = "1.x-dev"
 projects[workbench_profile][version] = "1.1"
 
 
+; themes
+projects[liquid_coolness][version] = "1.0"
+
 

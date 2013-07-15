@@ -71,5 +71,8 @@ dependencies[] = workbench_moderation_notes
 dependencies[] = workbench_email
 dependencies[] = workbench_profile
 
+; themes
+dependencies[] = liquid_coolness
+
 
 
