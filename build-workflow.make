@@ -7,5 +7,5 @@ includes[] = http://drupalcode.org/project/buildkit.git/blob_plain/refs/heads/7.
 
 projects[workflow][type] = profile
 projects[workflow][download][type] = git
-projects[workflow][download][url] = http://auedv18/gitweb/?p=workflow/.git;a=blob_plain;f=build-workflow.make;hb=HEAD
+projects[workflow][download][url] = http://auedv18/gitweb/?p=workflow/.git
 projects[workflow][download][branch] = master
