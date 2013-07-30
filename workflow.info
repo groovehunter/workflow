@@ -40,6 +40,7 @@ dependencies[] = drush_ctex_bonus
 dependencies[] = dhtml_menu
 dependencies[] = entityreference
 dependencies[] = features
+dependencies[] = ftools
 dependencies[] = field_group
 dependencies[] = field_permissions
 dependencies[] = ldap_servers
