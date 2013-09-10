@@ -42,8 +42,7 @@ projects[masquerade][version] = "1.0-rc5"
 projects[rules][version] = "2.3"
 projects[rules_conditional][version] = "1.0-beta2"
 projects[strongarm][version] = "2.0"
-projects[taxonomy_csv][version] = "5.x-dev"
-projects[taxonomy_csv][patch][] = "http://git.syscomp.de/?p=drupal_misc;a=blob_plain;f=taxonomy_csv-rm_unknown_options_check-1475952-10.patch;hb=HEAD"
+
 projects[taxonomy_manager][version] = "1.0-rc2"
 projects[uuid][version] = "1.0-alpha3"
 projects[uuid_features][version] = "1.0-alpha3"
@@ -61,6 +60,11 @@ projects[workbench_moderation][patch][] = "http://drupal.org/files/workbench_mod
 projects[workbench_moderation_notes][version] = "1.x-dev"
 projects[workbench_profile][version] = "1.1"
 
+
+;patched modules
+projects[taxonomy_csv][type] = module
+projects[taxonomy_csv][version] = "5.x-dev"
+projects[taxonomy_csv][patch][] = "http://git.syscomp.de/?p=drupal_misc;a=blob_plain;f=taxonomy_csv-rm_unknown_options_check-1475952-10.patch;hb=HEAD"
 
 ; themes
 projects[liquid_coolness][version] = "1.0"
